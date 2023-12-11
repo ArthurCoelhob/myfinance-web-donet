@@ -9,7 +9,7 @@ A aplicação permite o usuário criar categorias personalizadas para suas trans
 
 A arquitetura utilizada no projeto foi MVC (Model-View-Controller) que organiza o software em três componentes principais: Model (Modelo) gerencia os dados, View (Visão) responsável por exibeir informações ao usuário e passando as interações para a Controller (Controladora) que processa essas informações e realiza a comunicação com o model e atualizando a view quando necessário.
 
-<img src="/myfinance-web-netcore/src/Image/DiagramaArquitetura.png">
+<img src="/myfinance-web-netcore/Image/DiagramaArquitetura.png">
 
 ## Requisitos
 
