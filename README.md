@@ -1,7 +1,7 @@
 # myfinance-web-donet
 MyFinance - Projeto do Curso de Pos-Graduação em Engenharia de Software da PUC-MG
 
-## Descriação
+## Descrição
 Plataforma web que possibilita que os usuarios registrem suas receitas e despesas, para que possam ter uma analise de seus gastos e consequentemente desenvolver um melhor planejamento financeiro.
 A aplicação permite o usuário criar categorias personalizadas para suas transações de despesas e receitas.
 
